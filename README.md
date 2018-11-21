@@ -1,6 +1,6 @@
 # BrainSpeechRecons
 This is the open source code for the project: Intelligible Speech Reconstruction from the Human Auditory Cortex
-Pdf available onile on BioArXiv: https://www.biorxiv.org/content/biorxiv/early/2018/06/19/350124.full.pdf
+Pdf available online on BioArXiv: https://www.biorxiv.org/content/biorxiv/early/2018/06/19/350124.full.pdf
 
 ### Cite
 
